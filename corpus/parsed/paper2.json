@@ -1,0 +1,18 @@
+{
+  "paper_id": "paper2",
+  "title": "Title of paper2.pdf",
+  "authors": [
+    "Abstract:"
+  ],
+  "year": null,
+  "abstract": "",
+  "sections": {
+    "introduction": "Introduction\nThis is the introduction section. We provide background and motivation.",
+    "related_work": "",
+    "methodology": "",
+    "results": "",
+    "conclusion": "Conclusion\nThis is the conclusion. We summarize findings and suggest future work."
+  },
+  "references": [],
+  "parse_source": "pymupdf_fallback"
+}

@@ -1,0 +1,18 @@
+{
+  "paper_id": "logging_test",
+  "title": "Test Title",
+  "authors": [
+    "Abstract:"
+  ],
+  "year": null,
+  "abstract": "",
+  "sections": {
+    "introduction": "Introduction\nIntro text. This explains the introduction section. We discuss the background here.",
+    "related_work": "",
+    "methodology": "",
+    "results": "",
+    "conclusion": "Conclusion\nConclusion text. This summarizes the paper. We conclude with future work directions."
+  },
+  "references": [],
+  "parse_source": "pymupdf_fallback"
+}
